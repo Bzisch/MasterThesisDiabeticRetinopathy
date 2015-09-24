@@ -1,4 +1,4 @@
-#MasterThesis DiabeticRetinopathyDetection
+#README
 
 Small part of code used in my Masters Thesis "Detection of diabetic retinopathy using machine learning".
 Results were submitted to Kaggle as a part of Diabetic Retinopathy Detection challenge.
